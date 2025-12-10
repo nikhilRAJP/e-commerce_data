@@ -36,6 +36,7 @@ This assignment consists of three main components:
 Install dependencies:
 ```bash
 pip install pandas
+pip install faker
 ```
 
 ## Database Schema
