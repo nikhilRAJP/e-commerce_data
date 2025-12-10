@@ -1,0 +1,13 @@
+# prompt 1
+write a python script to generate synthetic e-commerce data. i need 5 csv files: customers, orders, order_details, payments, and products.
+the data needs to look realisticmimic the statistical patterns of real retail data (dates, prices, names), not just random strings. make sure all the IDs link together correctly so i can build a database later.
+
+
+# promt 2 
+write a clean and clear python script to ingest the data   5 csv files locvated inside data_output folder csv file name as follows (customers.csv , order_details.csv, orders.csv , payments.csv , products.csv ) and then save them into sqlite database named as 'ecommerce.db' 
+rate this prompt 
+
+# prompt 3
+write a python script to query 'ecommerce.db'
+write a sql query that joins customers, orders, order_details, and products tables. calculate the total spend for each customer. use the formula: sum(order_details.quantity * order_details.unit_price).
+group by customer name, order by total spend descending, and print the top 5 rows using pandas

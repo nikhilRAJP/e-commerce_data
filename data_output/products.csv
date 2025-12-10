@@ -1,0 +1,21 @@
+product_id,name,category,unit_price,stock
+1,Wireless Earbuds,Electronics,119.47,229
+2,Smartphone Case,Electronics,22.34,230
+3,USB-C Charger,Electronics,30.42,377
+4,Laptop Sleeve,Electronics,26.4,236
+5,Smartwatch,Electronics,227.74,131
+6,Ceramic Mug,Home,14.97,67
+7,Throw Pillow,Home,28.76,380
+8,Desk Lamp,Home,60.55,340
+9,Bath Towel Set,Home,56.02,277
+10,Knife Set,Home,119.57,321
+11,Facial Cleanser,Beauty,21.11,192
+12,Sunscreen SPF 50,Beauty,24.58,426
+13,Shampoo,Beauty,14.28,337
+14,Serum,Beauty,61.05,363
+15,Moisturizer,Beauty,37.37,486
+16,Yoga Mat,Sports,44.59,198
+17,Running Shoes,Sports,141.36,310
+18,Water Bottle,Sports,29.06,302
+19,Fitness Tracker,Sports,108.77,332
+20,Bike Helmet,Sports,65.84,417
